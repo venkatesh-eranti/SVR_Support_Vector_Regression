@@ -1,2 +1,2 @@
 # SVR_Support_Vector_Regression
-Boston Housing Price prediction and comparison of evaluation metrics with Support Vector Regression (with different kernels) and Multiple Linear Regression
+Boston Housing Price prediction and comparison of evaluation metrics with Support Vector Regression (with different kernels and parameters like C and Gamma) and Multiple Linear Regression
